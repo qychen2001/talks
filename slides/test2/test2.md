@@ -2,6 +2,8 @@
 
 Hello, **Slidev**!
 
+This is test page 2.
+
 ---
 
 # Slide 2
