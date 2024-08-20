@@ -5,6 +5,8 @@ Hello, **Slidev**!
 
 This is test page 1.
 
+The site is available at [HERE](https://qychen2001.github.io/talks/test1)
+
 ---
 
 # Slide 2
